@@ -1,8 +1,10 @@
 def foo():
+    print('call sasas')
     pass
 
 
 def bar():
+    print('call sasas')
     pass
 
 
